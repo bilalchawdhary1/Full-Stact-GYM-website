@@ -138,7 +138,7 @@ header p {
 }
 
 .workout_session {
-  background: url(/hero-1.jpg) rgba(0, 0, 0, 0.75);
+  /* background: url(/hero-1.jpg) rgba(0, 0, 0, 0.75); */
   min-height: 100vh;
   display: flex;
   max-width: 1500px;

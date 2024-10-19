@@ -3,7 +3,7 @@
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed By: CodeWithBilal(Coding Corner)
+       All Rights Reserved By : Muhammad Bilal
     </footer>
   )
 }
